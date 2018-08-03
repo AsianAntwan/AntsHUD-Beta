@@ -252,7 +252,7 @@
 			"fonts"
 			{
 				"0"		"NeutraDisp14"
-				"1"		"StorePromotionsTitle"
+				"1"		"Avenir12"
 				"2"		"FontStorePrice"
 			}
 		}
